@@ -1,6 +1,5 @@
 - # Hi, I’m @FlaviaAndrade22#
 - 👀 I’m interested in books, photography and music
-- 🌱 I’m currently learning C, CS e python
 - 📫 How to reach me my email flaviaandrader2011@gmail.com 
 - 😄 Pronouns: her/she and they/them
 - ⚡ Fun fact: i almost ent to college to study history
