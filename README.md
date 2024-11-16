@@ -1,4 +1,4 @@
-- # Hi, I’m @FlaviaAndrade22#
+- # Hi, I’m @FlaviaAndrade22
 - 👀 I’m interested in books, photography and music
 - 📫 How to reach me my email flaviaandrader2011@gmail.com 
 - 😄 Pronouns: her/she and they/them
