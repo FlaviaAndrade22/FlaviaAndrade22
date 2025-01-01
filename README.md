@@ -1,9 +1,9 @@
 #Hi there!
 
--💻 My name is Flavia NAndrade, and I'm a 19-year-old Brazilian passionate about technology.
--🎓 Currently pursuing a degree in Computer Science.
--🌟 Excited to learn, create, and collaborate on projects that make a difference.
--Feel free to connect and explore my repositories! 🚀
+- 💻 My name is Flavia NAndrade, and I'm a 19-year-old Brazilian passionate about technology.
+- 🎓 Currently pursuing a degree in Computer Science.
+- 🌟 Excited to learn, create, and collaborate on projects that make a difference.
+- Feel free to connect and explore my repositories! 🚀
 
   LANGUAGE
   
