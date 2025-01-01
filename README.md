@@ -1,8 +1,9 @@
-- # Hi, I’m @FlaviaAndrade22
-- 👀 I’m interested in books, photography and music
-- 📫 How to reach me my email flaviaandrader2011@gmail.com 
-- 😄 Pronouns: her/she and they/them
-- ⚡ Fun fact: i almost ent to college to study history
+#Hi there!
+
+💻 My name is Flavia NAndrade, and I'm a 19-year-old Brazilian passionate about technology.
+🎓 Currently pursuing a degree in Computer Science.
+🌟 Excited to learn, create, and collaborate on projects that make a difference.
+Feel free to connect and explore my repositories! 🚀
 
   LANGUAGE
   
