@@ -1,4 +1,4 @@
-#Hi there!
+# Hi there!
 
 - 💻 My name is Flavia Andrade, and I'm a 19-year-old Brazilian passionate about technology.
 - 🎓 Currently pursuing a degree in Computer Science.
