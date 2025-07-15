@@ -19,3 +19,5 @@
   <img height="150en" src="https://github-readme-stats.vercel.app/api?username=FlaviaAndrade22&theme=midnight-purple&show_icons=true&hide_border=false&border_color=A020F0&count_private=false" /> 
   <img height="150en" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlaviaAndrade22&theme=midnight-purple&show_icons=true&hide_border=false&border_color=A020F0&layout=compact" />
 </div> 
+
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/683e3b9500270d8a9683303b?variant=dark&roadmaps=qa%2Cfull-stack" alt="roadmap.sh"/></a>
