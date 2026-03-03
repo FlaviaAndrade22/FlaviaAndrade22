@@ -1,6 +1,6 @@
 # Hi there!
 
-- 💻 My name is Flavia Andrade, and I'm a 19-year-old Brazilian passionate about technology.
+- 💻 My name is Flavia Andrade, and I'm a 20-year-old Brazilian passionate about technology.
 - 🎓 Currently pursuing a degree in Computer Science.
 - 🌟 Excited to learn, create, and collaborate on projects that make a difference.
 - Feel free to connect and explore my repositories! 🚀
