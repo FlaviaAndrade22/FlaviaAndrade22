@@ -16,8 +16,8 @@
 
 ### 📈 Metrics & Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=FlaviaAndrade22&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlaviaAndrade22&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=FlaviaAndrade2011&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlaviaAndrade2011&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 
 ---
 
